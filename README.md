@@ -8,7 +8,7 @@ https://www.kaggle.com/loveall/clicks-conversion-tracking
 
 # Data Content:
 
-The data used in this project is from an anonymous organisation’s social media ad campaign. The data file can be downloaded from here. The file conversion_data.csv contains 1143 observations in 11 variables. Below are the descriptions of the variables:
+The data used in this project is from an anonymous organisation’s social media ad campaign. The data file can be downloaded from here. The file KAG_conversion_data.csv contains 1143 observations in 11 variables. Below are the descriptions of the variables:
 
 1.) ad_id: an unique ID for each ad.
 
