@@ -36,7 +36,7 @@ The data used in this project is from an anonymous organisation’s social media
 
 K-MEANS ALGORITHM
 
-# Method of finding ptimal number of clusters:
+# Method of finding optimal number of clusters:
 
 ELBOW METHOD
 
