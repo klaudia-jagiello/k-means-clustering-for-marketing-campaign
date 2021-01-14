@@ -44,3 +44,6 @@ ELBOW METHOD
 
 * PCA - PRINCIPAL COMPONENT ANALYSIS
 * AUTOENCODERS - ANN UNSUPERVISED TRAINING
+
+# See code:
+https://github.com/klaudia-jagiello/k-means-clustering-for-marketing-campaign/blob/main/Clustering_(for_marketing_campaigne)_.ipynb
